@@ -2,6 +2,9 @@
 .idea
 .vscode
 
+# Copilot
+.github/copilot*
+
 # Environment files
 .env
 .env.local
